@@ -1,0 +1,13 @@
+.parent{
+    background-color: grey;
+}
+
+.one_child{
+    background-color: grey;
+}
+
+.two_child{
+    color:red;
+    background-color: grey;
+    font-size: 20px;
+}
